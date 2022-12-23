@@ -1,4 +1,4 @@
-Update V2.1.0
+Update V2.1.1
 
 [+] Added new Loading Screen
 [+] Added new Clothes
@@ -6,6 +6,9 @@ Update V2.1.0
 [+] Added new Cars
 [+] New job (WEAPONDEALER)
 [+] New map (WEAPONDEALER)
+[+] Added new Outfit system (CUSTOM)
+[*] The loading screen song changed
 [*] Fixed some SQL Bugs
 [*] Fixed delay problem
 [*] Fixed some errors
+
