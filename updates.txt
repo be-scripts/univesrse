@@ -1,4 +1,4 @@
-Update V2.1.1
+Update V2.1.2
 
 [+] Added new Loading Screen
 [+] Added new Clothes
@@ -11,4 +11,5 @@ Update V2.1.1
 [*] Fixed some SQL Bugs
 [*] Fixed delay problem
 [*] Fixed some errors
-
+[*] Fixed admin menu and removed some commands
+[*] Scoreboard changed to 48 slots
